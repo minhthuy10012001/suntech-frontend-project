@@ -1,0 +1,216 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.tong
+{
+	width: 1350px;
+}
+.tren
+{
+	width: 1350px;
+	height: 80px;
+}
+
+.tieude
+{
+	color: white;
+	position: relative;
+	left: 40px;
+	bottom: -20px;
+}
+
+.tren ul li
+{
+	display: inline-block;
+	position: relative;
+	left: 400px;
+	/*text-decoration: none;
+	color: white;*/
+	padding: 0px;
+	padding-left: 80px;
+	bottom: 20px;
+}
+a:visited
+{
+	text-decoration: none;
+	color: white;
+}
+input[type = "text"]
+{
+	width: 130px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 15px;
+	outline: none;
+	padding: 6px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	/*left: 790px;
+	bottom: 20px;*/
+	background-color:#1d0404;
+
+
+}
+input[type="text"]:focus
+{
+	width: 220px;
+	background-color: #f7e2eb;
+}
+.left
+{
+	 
+	float: left;
+	width: 500px;
+	height: 200px;
+}
+.form-group
+{
+	position: relative;
+	left: 60px;
+	top: 80px;
+	/*font-size: 30px;*/
+}
+input[type = "text1"]
+{
+	position: relative;
+	padding: 5px;
+	background-color: #a55e07;
+	left: 30px;
+}
+input[type = "text2"]
+{
+	position: relative;
+	padding: 5px;
+	background-color: #a55e07;
+	left: 27px;
+}
+input[type = "text3"]
+{
+	position: relative;
+	padding: 5px;
+	background-color: #a55e07;
+	left: 15px;
+}
+
+select
+{
+	position: relative;
+	padding: 5px;
+	background-color: #a55e07;
+	color: white;
+	left: 30px;
+}
+.right
+{
+	position: relative;
+	float: left;
+	left: 0px;
+	padding: 25px;
+	top: -24px;
+	padding-left: 30px;
+
+}
+
+input[type = "number"]
+{
+	position: relative;
+	padding: 5px;
+	background-color: #a55e07;
+	left: 10px;
+
+}
+button
+{
+	position: relative;
+	padding: 5px 10px;
+	color: white;
+	background-color: #a55e07;
+	left: 60px;
+	top: 100px;
+
+}
+.thtien
+{
+	position: relative;
+	font-size: 30px;
+	left: 160px;
+	top: 60px;
+}
+
+
+.giua
+{
+	width: 1350px;
+	height: 1000px;
+}
+.a
+{
+	width: 170px;
+	position: relative;
+	background: #f9b259;
+	font-family: tahoma;
+	padding-right: 6px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 18px;
+	left: 320px;
+	top: 40px;
+}
+.b
+{
+	width: 600px;
+	position: relative;
+	left: 90px;
+	top: 90px;
+	font-family: Time new romand;
+	text-align: center;
+}
+.duoi
+{
+	width: 1350px;
+	height: 50px;
+	position: relative;
+	top: 900px;
+}
+table
+{
+	position: relative;
+	left: -440px;
+	bottom: -200px;
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+thead{
+	border: 1px solid black;
+}
+td
+{
+	border: 1px solid black;
+	width: 200px;
+}
+
+.re
+{
+	position: relative;
+	left: 45px;
+	background: #944c0d;
+	color: white;
+	padding: 2px 3px;
+	bottom: -100px;
+}
+.btn-primary
+{
+	position: relative;
+	left: 590px;
+	top: 200px;
+}
+.khoi
+{
+	position: relative;
+	left: 800px;
+	top: 230px;
+	text-align: center;
+}

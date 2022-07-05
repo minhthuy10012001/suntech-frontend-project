@@ -1,0 +1,436 @@
+{
+	padding: 0;
+	margin: 0; 
+}
+.tong{
+	width: 1350px;
+
+}
+.tren
+{
+	width: 1350px;
+	height: 90px;
+	
+}
+.tieude 
+{
+	color:white;
+	position: relative;
+	left: 45px;
+	bottom: -28px;
+	font-size: 30px;
+
+}
+.tren ul li
+{
+	position: relative;
+	display: inline;
+	/*font-weight: bold;*/
+	/*border-right: 1px solid #C6C7CB;*/
+	padding-right: 100px;
+	color: white;
+	padding: 65px;
+	bottom: 15px;
+	left: 230px;
+	width: 50px;
+	height: 20px;
+	font-size: 18px;
+
+}
+a:visited{
+	color: white ;
+	text-decoration: none;
+	font-size: 13px;
+}
+input[type = "text"]
+{
+	width: 130px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 15px;
+	outline: none;
+	padding: 6px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	left: 790px;
+	bottom: 20px;
+	background-color:#1d0404;
+
+
+}
+input[type="text"]:focus
+{
+	width: 220px;
+	background-color: #f7e2eb;
+}
+
+.giua{
+	width: 1350px;
+	height: 430px;
+	padding-top: 20px;
+}
+.layer1{
+	width: 1250px;
+	height: 490px;
+	padding-left: 47px;
+	z-index: 1;
+	bottom: 5px;
+}
+.layer2
+{
+	z-index: 2;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	transition: 2s;
+}
+.layer3
+{
+	z-index: 3;
+	width: 690px;
+	position: absolute;
+	bottom: 310px;
+	left: 720px;
+	font-size: 14px;
+	padding: 5px;
+	color: white ;
+	transition: 2s;
+}
+.duoi
+{
+	width: 1250px;
+}
+a.khoinho{
+	position: relative;
+	left: 85px;
+	bottom: -30px;
+	color: black;
+	text-decoration: none;
+	width: 280px;
+	height: 210px;
+	display: block;
+	float: left;
+	font-size: 9px;
+	padding: 50px;
+}
+.tong1
+{
+	width: 1350px;
+	position: relative;
+	bottom: -210px;
+
+}
+.tren1
+{
+	width: 1350px;
+	height: 65px;
+}
+
+.tren1 ul li
+{
+	position: relative;
+	display: inline-block;
+	width: 300px;
+	height: 40px;
+	color: white;
+	left: 150px;
+	bottom: 271px;
+	padding: -20px;
+	padding-left: 38px;
+	background-color: #16162d;
+}
+
+.duoi1 
+{
+	width: 1350px;
+	height: 400px;
+
+}
+.duoi1 img
+{
+	width: 200px;
+	height: 130px;
+	position: relative;
+	padding-left: 75px;
+	left: 80px;
+	bottom: 200px;
+	padding-bottom: 35px;
+	padding-top: 15px; 
+
+}
+.duoi2
+{
+	width: 1350px;
+	position: relative;
+	bottom: -210px;
+}
+.tong2
+{
+	width: 1350px;
+	position: relative;
+	bottom: -193px;
+}
+.tren2
+{
+	width: 1350px;
+	height: 65px;
+}
+
+.tren2 ul li
+{
+	position: relative;
+	display: inline-block;
+	width: 300px;
+	height: 40px;
+	color: white;
+	left: 160px;
+	bottom: -22px;
+	padding: -20px;
+	padding-left: 38px;
+	background-color: #16162d;
+
+}
+.giua2
+{
+	width: 1350px;
+}
+.layer4
+{
+	z-index: 1;
+	width: 1350px;
+	height: 470px;
+}
+.layer5
+{
+	z-index: 2;
+	left: 300px;
+	width: 530px;
+	position: absolute;
+	bottom: 310px;
+	font-size: 18px;
+	padding: 5px;
+	color: white ;
+	transition: 2s;
+}
+.duoi2
+{
+	width: 1250px;
+}
+a.khoinho1
+{
+	position: relative;
+	left: 140px;
+	bottom: 40px;
+	color: black;
+	text-decoration: none;
+	width: 280px;
+	height: 210px;
+	display: block;
+	float: left;
+	font-size: 14px;
+	padding: 50px;
+}
+.layer6
+{
+	position: relative;
+	font-size: 40px;
+}
+.layer9
+{
+	font-size: 36px;
+}
+.tong3
+{
+	width: 1350px;
+}
+.tren3
+{
+	width: 1350px;
+	position: relative;
+	bottom: -300px;
+	height: 480px;
+}
+.trai
+{
+	/*position: relative;*/
+	/*left: -1000px;*/
+	width: 900px;
+	/*height: 450px;*/
+	float: left;
+}
+.khoinho2
+{
+	position: relative;
+	width: 370px;
+	height: 45px;
+	left: 90px;
+}
+.layer10
+{
+	position: relative;
+	/*left: 20px;*/
+	bottom: 225px;
+	color: white;
+	transition: 5s;
+	text-align: center;
+}
+.khoinho3
+{
+	position: relative;
+	width: 370px;
+	height: 44px;
+	left: 90px;
+}
+.layer11
+{
+	position: relative;
+	left: -12px;
+	bottom: -63px;
+	color: white;
+	transition: 3s;
+}
+.left
+{
+	width: 730px;
+	position: relative;
+	top: -250px;
+	left: 20px;
+	height: 250px;
+}
+input[type = "text1"]
+{
+	width: 230px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 12px;
+	outline: none;
+	padding: 10px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	left: 60px;
+	bottom: 0px;
+	background-color:white;
+	padding-left: 18px;
+}
+
+.button
+{
+	position: relative;
+	left: -410px;
+	bottom: -100px;
+	border-radius: 12px;
+	padding: 5px; 
+	background-color: #130c35;
+	color: white;
+}
+
+input[type = "text2"]
+{
+	width: 230px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 12px;
+	outline: none;
+	padding: 10px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	left: -175px;
+	bottom: -50px;
+	background-color:white;
+	padding-left: 18px;
+}
+textarea[type="text3"]
+{
+	width: 463px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 12px;
+	outline: none;
+	padding: 40px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	left: 60px;
+	bottom: -65px;
+	background-color:white;
+	padding-left: 18px;
+}
+
+.layer16
+{
+	position: relative;
+	left: -450px;
+	bottom: 30px;
+}
+.phai
+{
+	/*position: relative;*/
+	width: 450px;
+	float: left;
+	/*color: white;*/
+	
+}
+.chu
+{
+	position: relative;
+	width: 400px;
+	color:#9895ab;
+	padding: 0px;
+	bottom: 140px;
+}
+.khoi
+{
+	width: 210px;
+	height: 30px;
+}
+.la1
+{
+	position: relative;
+	top:-20px;
+	left: 10px;
+	background-color: #323258;
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+	line-height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-radius: 10px;
+}
+.duoicung
+{
+	width: 1350px;
+
+}
+.trencuoi ul li
+{
+	width: 400px;
+	position: relative;
+	bottom: -150px;
+	left: 40px;
+	display: inline-block;
+	/*padding-right: 100px;*/
+	/*color: white;*/
+	padding: 30px;
+	height: 20px;
+	font-size: 12px;
+	line-height: 4px;
+
+}
+.cuoi
+{
+	width: 1350px;
+	height: 60px;
+	position: relative;
+	bottom: -200px;
+}
+.cuoi ul li
+{
+	width: 10px;
+	display: inline-block;
+	padding: 10px;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+

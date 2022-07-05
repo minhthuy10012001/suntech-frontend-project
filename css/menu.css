@@ -1,0 +1,184 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.tong
+{
+	width: 1350px;
+}
+.tren
+{
+	width: 1350px;
+	height: 80px;
+}
+
+.tieude
+{
+	color: white;
+	position: relative;
+	left: 40px;
+	bottom: -28px;
+}
+
+.tren ul li
+{
+	position: relative;
+	display: inline;
+	/*font-weight: bold;*/
+	/*border-right: 1px solid #C6C7CB;*/
+	padding-right: 100px;
+	color: white;
+	padding: 65px;
+	bottom: 15px;
+	left: 230px;
+	width: 50px;
+	height: 20px;
+	font-size: 18px;
+	text-decoration: none;
+}
+a:visited
+{
+	text-decoration: none;
+	color: white;
+}
+input[type = "text"]
+{
+	width: 130px;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 15px;
+	outline: none;
+	padding: 6px;
+	transition: 0.6s ease-in-out;
+	position: relative;
+	/*left: 790px;
+	bottom: 20px;*/
+	background-color:#1d0404;
+	/*padding-left: 400px;*/
+
+
+}
+input[type="text"]:focus
+{
+	width: 220px;
+	background-color: #f7e2eb;
+}
+.binhpha
+{
+	position: relative;
+	left: 900px;
+	width: 250px;
+	height: 200px;
+	top: -50px;
+}
+.giua
+{
+	width: 1350px;
+	height: 250px;
+}
+.a
+{
+	width: 85px;
+	position: relative;
+	background: #f9b259;
+	font-family: tahoma;
+	padding-right: 6px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 18px;
+	left: 320px;
+	top: 40px;
+}
+.b
+{
+	width: 600px;
+	position: relative;
+	left: 90px;
+	top: 90px;
+	font-family: Time new romand;
+	text-align: center;
+}
+.duoi
+{
+	width: 1350px;
+	height: 50px;
+	position: relative;
+
+}
+.tong1
+{
+	width: 1350px;
+}
+.tren1
+{
+	width: 1350px;
+	height: 850px;
+}
+a.khoivuongnho {
+	width: 200px;
+	height: 220px;
+	position: relative;
+	display: inline-block;
+	/*padding-left: 130px ;*/
+	padding-bottom: 50px; 
+	top: 0px;
+	padding: 27px;
+	left: 30px;
+	padding-top: 100px;
+
+
+}
+.layer1
+{
+	z-index: 1;
+	width: 200px;
+	height: 220px;
+	position: absolute;
+
+}
+.layer2
+{
+
+}
+.layer3
+{
+	z-index: 3;
+	width: 135px;
+	height: 30px;
+	background: #481919d9;
+	color: white;
+	position: absolute;
+	font-size: 18px;
+	bottom: -40px;
+	padding-left: 65px;
+	padding-right: -30px;
+	padding-top: 6px;
+
+
+}
+
+a.khoivuongnho:hover .layer2
+{
+	z-index: 2;
+	width: 200px;
+	height: 220px;
+	top: 100px;
+	left: 27px;
+	position: absolute;
+	background-image: -webkit-linear-gradient(top, #b5acac 5%, #00000834 0%)
+}
+.cuoi
+{
+	width: 1350px;
+	height: 60px;
+	position: relative;
+	bottom: 0px;
+}
+.cuoi ul li
+{
+	width: 10px;
+	display: inline-block;
+	padding: 10px;
+	padding-top: 20px;
+	padding-left: 50px;
+}
